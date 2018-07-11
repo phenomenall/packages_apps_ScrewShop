@@ -1394,4 +1394,8 @@
     <string name="less_boring_heads_up_title">Make heads up less annoying</string>
     <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app</string> 
 
+    <!-- Screenshot Sound  -->
+    <string name="screenshot_sound_title">Screenshot sound</string>
+    <string name="screenshot_sound_summary">Toggle sound played while taking screenshot</string>
+
 </resources>
